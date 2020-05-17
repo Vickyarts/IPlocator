@@ -1,2 +1,2 @@
 # IPlocator
-This script is used for ip location finding.
+This script is used for finding location using IP address.
