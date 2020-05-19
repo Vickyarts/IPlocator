@@ -134,7 +134,7 @@ function geolocate_ip()
 		else
 			echo -e ""$YS" m"$CE") Open google maps location"
 		fi
-		echo -e ""$YS" *"$CE") Exit"
+		echo -e ""$YS" x"$CE") Exit"
 		echo -e "Choose: "
 		read ge
 		if [[ "$ge" = "m" ]]
