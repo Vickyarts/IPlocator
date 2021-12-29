@@ -186,7 +186,7 @@ function exec()
 
 checkinternet
 depend
-start=$(zenity --question --title="☢ Evil-Droid Framework ☢" --text "Execute framework and Services?" --width 270 2> /dev/null)
+start=$(zenity --question --title="☢ IPLocator ☢" --text "Execute the script?" --width 270 2> /dev/null)
   if [ "$?" -eq "0" ];
   then
       clear
